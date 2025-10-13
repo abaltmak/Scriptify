@@ -28,7 +28,7 @@ The solution is unlike anything you have ever seen:
   </tr>
   <tr>
     <td>Edgars Smilgajs</td>
-    <td>created the table</td>
+    <td>created the weekly report table and edited spotify description</td>
     <td>10/13/2025</td>
   </tr>
    <tr>
