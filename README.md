@@ -28,7 +28,7 @@ The solution is unlike anything you have ever seen:
   </tr>
   <tr>
     <td>Edgars Smilgajs</td>
-    <td>created the weekly report table and edited spotify description</td>
+    <td> listed things we will need to breakdown and seperait between us. watch a sort video about java programming and python programming. and chosen python as the main one.</td>
     <td>10/13/2025</td>
   </tr>
    <tr>
