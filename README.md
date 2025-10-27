@@ -33,12 +33,12 @@ The solution is unlike anything you have ever seen:
   </tr>
    <tr>
     <td>Mark Lynch</td>
-    <td>got new ideas for the app </td>
-    <td>10/12/2025</td>
+    <td>draw on a paper a picture of how the web main page would look like </td>
+    <td>10/13/2025</td>
   </tr>
    <tr>
     <td>Artemijs Baltmaķis</td>
-    <td>created github project</td>
-    <td>10/06/2025</td>
+    <td>whatch a basic python video</td>
+    <td>10/22/2025</td>
   </tr>
 </table>
