@@ -28,13 +28,13 @@ The solution is unlike anything you have ever seen:
   </tr>
   <tr>
     <td>Edgars Smilgajs</td>
-    <td> listed things we will need to breakdown and seperait between us. watch a sort video about java programming and python programming. and chosen python as the main one.</td>
-    <td>10/13/2025</td>
+    <td> downloud a pyhthon app which i would use for coding and mad a cote for a button which sends you to folder.</td>
+    <td>11/2/2025</td>
   </tr>
    <tr>
     <td>Mark Lynch</td>
-    <td>draw on a paper a picture of how the web main page would look like </td>
-    <td>10/13/2025</td>
+    <td>draw on a paper a picture of how the math slide would look like </td>
+    <td>11/1/2025</td>
   </tr>
    <tr>
     <td>Artemijs Baltmaķis</td>
@@ -42,3 +42,4 @@ The solution is unlike anything you have ever seen:
     <td>10/22/2025</td>
   </tr>
 </table>
+
