@@ -38,7 +38,7 @@ The solution is unlike anything you have ever seen:
   </tr>
    <tr>
     <td>Artemijs Baltmaķis</td>
-    <td>whatch a basic python video</td>
+    <td>checked if it is possible to insert images as letters to create a word</td>
     <td>10/22/2025</td>
   </tr>
 </table>
