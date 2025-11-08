@@ -28,8 +28,8 @@ The solution is unlike anything you have ever seen:
   </tr>
   <tr>
     <td>Edgars Smilgajs</td>
-    <td> downloud a pyhthon app which i would use for coding and mad a cote for a button which sends you to folder.</td>
-    <td>11/2/2025</td>
+    <td> Made a website and the home page for scriptfy</td>
+    <td>11/3/2025</td>
   </tr>
    <tr>
     <td>Mark Lynch</td>
