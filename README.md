@@ -33,8 +33,8 @@ The solution is unlike anything you have ever seen:
   </tr>
    <tr>
     <td>Mark Lynch</td>
-    <td>draw on a paper a picture of how the math slide would look like </td>
-    <td>11/1/2025</td>
+    <td>sent Elon Musk an instagram dm regarding our chatgpt sponsorship </td>
+    <td>11/8/2025</td>
   </tr>
    <tr>
     <td>Artemijs Baltmaķis</td>
