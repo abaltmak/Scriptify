@@ -28,8 +28,8 @@ The solution is unlike anything you have ever seen:
   </tr>
   <tr>
     <td>Edgars Smilgajs</td>
-    <td> Made a website and the home page for scriptfy</td>
-    <td>11/3/2025</td>
+    <td> added some features for scriptfy</td>
+    <td>12/8/2025</td>
   </tr>
    <tr>
     <td>Mark Lynch</td>
