@@ -38,8 +38,8 @@ The solution is unlike anything you have ever seen:
   </tr>
    <tr>
     <td>Artemijs Baltmaķis</td>
-    <td>found a logo for our app</td>
-    <td>11/8/2025</td>
+    <td>edited the logo, final version is ready</td>
+    <td>12/8/2025</td>
   </tr>
 </table>
 
