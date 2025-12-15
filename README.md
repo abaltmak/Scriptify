@@ -38,8 +38,8 @@ The solution is unlike anything you have ever seen:
   </tr>
    <tr>
     <td>Artemijs Baltmaķis</td>
-    <td>edited the logo, final version is ready</td>
-    <td>12/8/2025</td>
+    <td>prepeared for the summative test</td>
+    <td>12/15/2025</td>
   </tr>
 </table>
 
